@@ -28,3 +28,7 @@ Eşleme yapacağımız dizilimin sonlarını oluşturduktan sonra eşleme yapma 
 Birinci adımda arama yaptığımız dizilimin ilk 8 karakteri:GCATCGCA (Aradığımız dizilim de 8 karakter olduğu için)  sondan başlayarak ön işlemde arayacağımız dizilime uyguladığımız sonlara uygun olup olmadığı kontrol ediliyor. Burada görüldüğü gibi A-C-G arayacağımız dizilimde bir sonu gösteriyor(Yani aradığımızın başlangıcı olabilir). Eşleşme olmadı fakat o üç karakter çıkartılarak 8-3 = 5 karakter kaydırılarak devam edilir.
 
 ![_config.yml]({{ site.baseurl }}/images/b3.jpg)
+
+Burada ise önceki işlem tekrarlanır. Başlangıçtan sona  aradığımız dizilimin bu olduğu anlaşılır. Daha sonraaynı dizilim üzerinde aramaya devam eder bunun için 8-1 = 7 kaydırma yapılır(Başlangıç ve son aynı olduğu için).
+
+![_config.yml]({{ site.baseurl }}/images/b4.jpg)
