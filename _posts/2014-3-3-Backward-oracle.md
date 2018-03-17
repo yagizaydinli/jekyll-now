@@ -25,6 +25,6 @@ Eşleme yapacağımız dizilimin sonlarını oluşturduktan sonra eşleme yapma 
 
 ![_config.yml]({{ site.baseurl }}/images/b2.jpg)
 
-Birinci adımda arama yaptığımız dizilimin ilk 8 karakteri:GCATCGCA (Aradığımız dizilim de 8 karakter olduğu için)  sondan başlayarak ön işlemde arayacağımız dizilime uyguladığımız sonlara uygun olup olmadığı kontrol ediliyor. Burada görüldüğü gibi A-C-G arayacağımız dizilim de bir sonu gösteriyor(Yani aradığımızın başlangıcı olabilir). Eşleşme olmadı fakat o üç karakter çıkartılarak 8-3 = 5 karakter kaydırılarak devam edilir.
+Birinci adımda arama yaptığımız dizilimin ilk 8 karakteri:GCATCGCA (Aradığımız dizilim de 8 karakter olduğu için)  sondan başlayarak ön işlemde arayacağımız dizilime uyguladığımız sonlara uygun olup olmadığı kontrol ediliyor. Burada görüldüğü gibi A-C-G arayacağımız dizilimde bir sonu gösteriyor(Yani aradığımızın başlangıcı olabilir). Eşleşme olmadı fakat o üç karakter çıkartılarak 8-3 = 5 karakter kaydırılarak devam edilir.
 
 ![_config.yml]({{ site.baseurl }}/images/b3.jpg)
