@@ -29,6 +29,6 @@ Birinci adımda arama yaptığımız dizilimin ilk 8 karakteri:GCATCGCA (Aradı�
 
 ![_config.yml]({{ site.baseurl }}/images/b3.jpg)
 
-Burada ise önceki işlem tekrarlanır. Başlangıçtan sona  aradığımız dizilimin bu olduğu anlaşılır. Daha sonraaynı dizilim üzerinde aramaya devam eder bunun için 8-1 = 7 kaydırma yapılır(Başlangıç ve son aynı olduğu için).
+Burada ise önceki işlem tekrarlanır. Başlangıçtan sona  aradığımız dizilimin bu olduğu anlaşılır. Daha sonra aynı dizilim üzerinde aramaya devam eder bunun için 8-1 = 7 kaydırma yapılır(Başlangıç ve son aynı olduğu için).
 
 ![_config.yml]({{ site.baseurl }}/images/b4.jpg)
