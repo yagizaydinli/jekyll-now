@@ -16,6 +16,7 @@ Arayacağımız dizilim üzerinde bir ön işlem yapmamız gerekiyor. Bu ön iş
 
 Başlangıcımız ve bitişimiz G karakteri ile olduğu için 0,7 ve 8 iki çerçeveli olarak belirtilmiş. Başlangıcımız 8 oluyor. 8den 7ye gidip bitme durumundan dolayı 7de iki çerçeveli olarak belirtiliyor.
 Daha sonra sona ulaşma durumlarının hepsi düşünülerek aşağıdaki şekil oluşturulmuş.
+
 ![_config.yml]({{ site.baseurl }}/images/bom.png)
 
 
