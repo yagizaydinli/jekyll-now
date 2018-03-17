@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Backward Oracle Dizgi eşleme algoritması
+title: Backward Oracle Dizgi Eşleme Algoritması
 ---
 
 Bu yazıda Backward Oracle dizgi eşleme algoritmasını anlatmaya çalıştım. Anlattığım örnek klasik DNA dizilim örneği üzerinden olacak. Herhangi bir metin üzerinde arama yapmak baya uzun sürüyor.
